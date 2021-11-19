@@ -1,0 +1,7 @@
+https://atcoder.jp/contests/abc226/tasks/abc226_c
+
+
+- Giới thiệu kiến trúc sử dụng (min stack ? )
+- Liệt kê user story của ứng dụng áp dụng kiến trúc đó
+- Cài đặt
+10 - 12 slide , 5-7p.
